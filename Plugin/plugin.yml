@@ -1,0 +1,13 @@
+name: GravityHammer
+ain: GravityHammer\Main
+version: 1.0.0
+api: [1.0.0]
+
+load: POSTWORLD
+authors: [Comedyman937]
+description: Simple Copy Of Halos Gravity Hammer!
+
+permissions:
+    gravityhammer.use:
+        description: "Allows players to use the gravity hammer!"
+        default: op
